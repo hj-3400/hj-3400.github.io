@@ -1,10 +1,14 @@
-- course: BSc Computer Science
-  institute: University of Birmingham
-  dates: 2018 - 2021
-  logo: uob.png
+- course: BS in Computer Information Systems
+  institute: North Carolina Wesleyan College
+  dates: August 2019 - 2023 May - Expected
+  logo: ncwclogo.png
   
-- course: Explorer Fellow
+- course: Build Hackathon
   institute: MLH Fellowship
-  dates: Fall 2020
-  logo: fellowship.svg
+  dates: January 2021
+  logo: mlhlogo.png
   
+- course: Technical Support Fundamentals
+  institute: Coursera
+  dates: June 2020
+  logo: courseralogo.png
